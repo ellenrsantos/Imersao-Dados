@@ -2,7 +2,7 @@ Imersão Dados Alura 2021 - 3ª Edição
 
 ![article](https://user-images.githubusercontent.com/85702310/121576790-246e8b80-c9ff-11eb-8ec9-fe35346eb494.jpg)
 
-Criado por: Ellen Rodrigues dos Santos
+Criado por: Ellen Rodrigues dos Santos   :)
 
 Estudante de Data Science e Python 3.0, Mestra em Ciência e Engenharia de Materiais. 
 
